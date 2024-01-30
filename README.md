@@ -1,3 +1,5 @@
 # pandas_challenge
 
-I thought I had this reasonably complete, and then was thrown by realizing that the passing threshold was 70 and not 60.  I coded most of this without referring to the starter file and that was a mistake.  I have to complete this.  I don't like where it's at right now.
+I am now much happier with the analysis of these school data.  This is my 2nd submission, as I encountered some mistakes near the deadline and needed to return to the project.  I hope it can be rescored.
+
+I believe that all of the analysis and calculation required is shown in the Finished PyCity Python file.
